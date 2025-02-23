@@ -5,7 +5,7 @@
 <h3>Setup Instructions:</h3> provide 2 numbers num1 and num2 and select Arithmetic operator<br>
 <h3>Screenshots:</h3>
 
-![Screenshot 1](https://github.com/ankush-2000/Calculator/blob/main/images/Screenshot%202025-02-10%20152048.png)
-![Screenshot 2](https://github.com/ankush-2000/Calculator/blob/main/images/Screenshot%202025-02-10%20152134.png)
-![Screenshot 3](https://github.com/ankush-2000/Calculator/blob/main/images/Screenshot%202025-02-10%20152208.png)<br>
-<h3>Author Information:</h3> Ankush Negi
+![Screenshot 1](https://github.com/shashwat-04/android_calculator/blob/main/screenshots/Screenshot%202025-02-10%20152048.png)
+![Screenshot 2](https://github.com/shashwat-04/android_calculator/blob/main/screenshots/Screenshot%202025-02-10%20152134.png)
+![Screenshot 3](https://github.com/shashwat-04/android_calculator/blob/main/screenshots/Screenshot%202025-02-10%20152208.png)<br>
+<h3>Author Information:</h3> Shashwat Gupta
